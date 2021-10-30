@@ -1,0 +1,27 @@
+.spacer {
+    aspect-ratio: 960/300;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.spacer2 {
+  aspect-ratio: 960/500;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.layer1 {
+  background-image: url('./waves.svg');
+}
+
+.layer2 {
+  background-image: url('./waves2.svg');
+}
+
+.layer3 {
+  background-image: url('./waves3.svg');
+}
