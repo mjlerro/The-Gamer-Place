@@ -1,4 +1,3 @@
-import '../styles/globals.css'
 import '../styles/waves.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
